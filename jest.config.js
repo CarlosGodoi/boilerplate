@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
   testEnvironment: 'jsdom',
   testPathIgnorePatterns: ['/node_modules/', '/.next/'],
